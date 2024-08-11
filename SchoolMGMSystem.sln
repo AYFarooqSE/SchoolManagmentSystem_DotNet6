@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMS_Web", "SSMS_Web\SSMS_Web.csproj", "{55528D8C-F5DE-46C7-AC9C-EF2162506043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMS_API", "SSMS_API\SSMS_API.csproj", "{74315DA6-F220-43C7-AD3E-79CDD2F3EC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55528D8C-F5DE-46C7-AC9C-EF2162506043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55528D8C-F5DE-46C7-AC9C-EF2162506043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55528D8C-F5DE-46C7-AC9C-EF2162506043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55528D8C-F5DE-46C7-AC9C-EF2162506043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74315DA6-F220-43C7-AD3E-79CDD2F3EC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74315DA6-F220-43C7-AD3E-79CDD2F3EC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74315DA6-F220-43C7-AD3E-79CDD2F3EC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74315DA6-F220-43C7-AD3E-79CDD2F3EC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A314362-B1C4-4768-8121-FCBDF642D78D}
+	EndGlobalSection
+EndGlobal
